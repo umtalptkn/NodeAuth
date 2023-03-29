@@ -14,3 +14,10 @@ body {
   color: #fff;
   background-color: #000;
 }
+.btn-google {
+  line-height: inherit; /* Dikey hizalamayı ayarlar */
+}
+
+.btn-google .fa:before {
+  font-size: 18px; /* Logo boyutunu ayarlar */
+}
